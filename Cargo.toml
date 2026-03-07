@@ -1,8 +1,9 @@
 [package]
-name = "rl4"
+name = "rl"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 rand = "0.10.0"
 walkdir = "2"
+regex = "1.10.2"
