@@ -22,7 +22,7 @@ fn main () {
             println!("{:?}", dir);
         },
         Err(_) => {
-            println!("{}", "Unable to crate folder")
+            println!("{}", "Unable to create folder")
         }
     };
 }
