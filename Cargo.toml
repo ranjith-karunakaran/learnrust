@@ -8,3 +8,5 @@ rand = "0.10.0"
 walkdir = "2"
 regex = "1.10.2"
 anyhow = "1.0.102"
+csv = "1.4.0"
+serde = { version = "1.0.228", features = ["derive"] }
